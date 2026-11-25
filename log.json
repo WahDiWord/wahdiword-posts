@@ -1,0 +1,59 @@
+[
+ {
+  "date": "2026-11-26",
+  "kicker": "PATWAH LESSON",
+  "title": "Mek haste!",
+  "tiles": "MEK HASTE",
+  "tilly": "jamaica-wave",
+  "theme": "green"
+ },
+ {
+  "date": "2026-11-27",
+  "kicker": "HOW YUH SEH...",
+  "title": "\"I'm broke\" inna patwah?",
+  "tiles": "BRUK POCKET",
+  "tilly": "coconut-stand",
+  "theme": "gold"
+ },
+ {
+  "date": "2026-11-28",
+  "kicker": "GUESS DI WORD",
+  "title": "Yuh know dis one?",
+  "tiles": "W??K G??D",
+  "tilly": "sapphire-wave",
+  "theme": "night",
+  "answer": "WALK GOOD"
+ },
+ {
+  "date": "2026-11-29",
+  "kicker": "ISLAND TOUR",
+  "title": "14 parishes. One road trip.",
+  "tiles": "",
+  "tilly": "sky-cheer",
+  "theme": "sea"
+ },
+ {
+  "date": "2026-11-30",
+  "kicker": "RARE SKIN",
+  "title": "Di Fire skin nuh come easy",
+  "tiles": "",
+  "tilly": "fire-cheer",
+  "theme": "sunset"
+ },
+ {
+  "date": "2026-12-01",
+  "kicker": "PATWAH LESSON",
+  "title": "Dry land tourist",
+  "tiles": "DRY LAND",
+  "tilly": "grape-wave",
+  "theme": "purple"
+ },
+ {
+  "date": "2026-12-02",
+  "kicker": "THIS OR THAT",
+  "title": "Jerk chicken or curry chicken?",
+  "tiles": "",
+  "tilly": "gold-wave",
+  "theme": "gold"
+ }
+]
