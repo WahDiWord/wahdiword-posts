@@ -8,12 +8,29 @@
   "theme": "green"
  },
  {
+  "date": "2026-11-26-pm",
+  "kicker": "TAG A FRIEND",
+  "title": "Mi soon come",
+  "tiles": "MI SOON COME",
+  "tilly": "bubblegum-wave",
+  "theme": "pink"
+ },
+ {
   "date": "2026-11-27",
   "kicker": "HOW YUH SEH...",
   "title": "\"I'm broke\" inna patwah?",
   "tiles": "BRUK POCKET",
   "tilly": "coconut-stand",
   "theme": "gold"
+ },
+ {
+  "date": "2026-11-27-pm",
+  "kicker": "GUESS DI WORD (REEL)",
+  "title": "Yuh know dis one?",
+  "answer": "LIKKLE MORE",
+  "tilly": "sapphire-wave",
+  "theme": "night",
+  "reel": true
  },
  {
   "date": "2026-11-28",
@@ -23,6 +40,13 @@
   "tilly": "sapphire-wave",
   "theme": "night",
   "answer": "WALK GOOD"
+ },
+ {
+  "date": "2026-11-28-pm",
+  "kicker": "BIG WORD SUNDAY",
+  "title": "Sundays a di big one",
+  "tilly": "emerald-cheer",
+  "theme": "sea"
  },
  {
   "date": "2026-11-29",
